@@ -1,0 +1,8 @@
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\bin\Debug\Hello_world_NT.exe.config
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\bin\Debug\Hello_world_NT.exe
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\bin\Debug\Hello_world_NT.pdb
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\obj\Debug\Hello_world_NT.csproj.AssemblyReference.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\obj\Debug\Hello_world_NT.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\obj\Debug\Hello_world_NT.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\obj\Debug\Hello_world_NT.exe
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_NT\Hello_world_NT\obj\Debug\Hello_world_NT.pdb
