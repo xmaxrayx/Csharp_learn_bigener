@@ -1,0 +1,15 @@
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\bin\Debug\net6.0\Tf2_EXE_CALL.exe
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\bin\Debug\net6.0\Tf2_EXE_CALL.deps.json
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\bin\Debug\net6.0\Tf2_EXE_CALL.runtimeconfig.json
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\bin\Debug\net6.0\Tf2_EXE_CALL.dll
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\bin\Debug\net6.0\Tf2_EXE_CALL.pdb
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.csproj.AssemblyReference.cache
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.AssemblyInfoInputs.cache
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.AssemblyInfo.cs
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.dll
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\refint\Tf2_EXE_CALL.dll
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.pdb
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\Tf2_EXE_CALL.genruntimeconfig.cache
+C:\Users\max\source\repos\Tf2_EXE_CALL\Tf2_EXE_CALL\obj\Debug\net6.0\ref\Tf2_EXE_CALL.dll

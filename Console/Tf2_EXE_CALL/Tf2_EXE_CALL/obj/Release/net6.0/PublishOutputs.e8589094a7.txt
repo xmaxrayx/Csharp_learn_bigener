@@ -1,0 +1,5 @@
+C:\Users\max\Documents\C#_APP\Tf2_EXE_CALL.exe
+C:\Users\max\Documents\C#_APP\Tf2_EXE_CALL.dll
+C:\Users\max\Documents\C#_APP\Tf2_EXE_CALL.deps.json
+C:\Users\max\Documents\C#_APP\Tf2_EXE_CALL.runtimeconfig.json
+C:\Users\max\Documents\C#_APP\Tf2_EXE_CALL.pdb

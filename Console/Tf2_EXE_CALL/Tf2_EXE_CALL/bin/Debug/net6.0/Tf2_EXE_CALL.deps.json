@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tf2_EXE_CALL/1.0.0": {
+        "runtime": {
+          "Tf2_EXE_CALL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tf2_EXE_CALL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
