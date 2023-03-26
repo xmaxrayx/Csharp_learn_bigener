@@ -1,0 +1,15 @@
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.csproj.AssemblyReference.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.AssemblyInfoInputs.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.AssemblyInfo.cs
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\bin\Debug\net6.0\Hello_world_2.exe
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\bin\Debug\net6.0\Hello_world_2.deps.json
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\bin\Debug\net6.0\Hello_world_2.runtimeconfig.json
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\bin\Debug\net6.0\Hello_world_2.dll
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\bin\Debug\net6.0\Hello_world_2.pdb
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.dll
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\refint\Hello_world_2.dll
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.pdb
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\Hello_world_2.genruntimeconfig.cache
+C:\Users\max\Documents\GitHub\Csharp_learn_bigener\Console\Hello_world\Hello_world_2\Hello_world_2\obj\Debug\net6.0\ref\Hello_world_2.dll
