@@ -35,6 +35,21 @@ namespace Hello_world_2 // Note: actual namespace depends on the project name.
             c = a + b;
             Console.WriteLine("New Result is :" + c);
 
+            //gg ez
+            Console.WriteLine(  "ara ara");
+            float Vat = 30f;
+            float productA = 3.2f;
+            float productB = 2f;
+            float productC = 18.12f;
+
+            float summed = productA + productB + productC;
+            float totaltax = (summed / 100) * Vat;
+
+
+            summed += totaltax;
+            // += -= *= oprator
+
+            Console.WriteLine("totel price is " + summed);
 
 
         }   
